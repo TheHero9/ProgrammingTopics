@@ -24,7 +24,9 @@
 ### 5. Write code by <ins>combining</base> the base case with the formula. </br> </br> </br> </br> 
 
 # 📙 Examples
-### <ins>Problem 1: Write a recursive function that given an input "n" sums all nonegative integers up to "n". Sum(5) = 5 + 4 + 3 + 2 + 1 = 10 </ins> </br> </br> </br>
+### Problem 1: Write a recursive function that given an input "n" sums all nonegative integers up to "n". </br>
+- Sum(5) = 5 + 4 + 3 + 2 + 1 = 10  </br>
+- Sum(3) =  3 + 2 + 1 = 6 </br> </br> </br>
 
 ### :one:  **Step 1: What's the simplest possible output?** </br>
 ### Define the base case of the problem.
