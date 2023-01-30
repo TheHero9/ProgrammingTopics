@@ -1,20 +1,20 @@
 
 # ♻️ What's recursion? 
 
-#### Recursion is a technique in computer programming where a function calls itself in order to solve a problem. It works by breaking a problem down into smaller and simpler sub-problems, and then solving each of those sub-problems recursively until a base case is reached. The solutions to the sub-problems are then combined to solve the original problem. </br> </br> </br> </br>
+### Recursion is a technique in computer programming where a function calls itself in order to solve a problem. It works by breaking a problem down into smaller and simpler sub-problems, and then solving each of those sub-problems recursively until a base case is reached. The solutions to the sub-problems are then combined to solve the original problem. </br> </br> </br> </br>
 
 # ➕ Pros &  ➖ Cons
 ### ➕ Pros
-- Simplifies complex problems: Recursion can make code more readable and easier to understand by breaking down complex problems into smaller and simpler sub-problems.
-- Reusable code: Recursive functions can be easily reused for similar problems, making the code more efficient.
-- Elegant solution: Recursion provides a clean and elegant solution for problems that would otherwise require complex and difficult-to-follow control structures.
+- **Simplifies complex problems: Recursion can make code more readable and easier to understand by breaking down complex problems into smaller and simpler sub-problems.**
+- **Reusable code: Recursive functions can be easily reused for similar problems, making the code more efficient.**
+- **Elegant solution: Recursion provides a clean and elegant solution for problems that would otherwise require complex and difficult-to-follow control structures.**
 
 <hr>
 
 ### ➖ Cons 
-- Errors: If a recursive function is not properly designed to have an exit condition, it can lead to an infinite loop and cause a stack overflow error.
-- Slower performance: Recursive functions can be slower than their iterative counterparts due to the overhead of function calls.
-- Higher memory usage: Recursive functions can consume more memory compared to iterative solutions because each function call requires the creation of a new stack frame. </br> </br> </br> </br>
+- **Errors: If a recursive function is not properly designed to have an exit condition, it can lead to an infinite loop and cause a stack overflow error.**
+- **Slower performance: Recursive functions can be slower than their iterative counterparts due to the overhead of function calls.**
+- **Higher memory usage: Recursive functions can consume more memory compared to iterative solutions because each function call requires the creation of a new stack frame.** </br> </br> </br> </br>
 
 # 👣 Main Steps to solve a recursive problem
 ### 1. What's the simplest possible input? Find the <ins>base case</base>.
@@ -44,7 +44,7 @@
  <img src="p1harderproblem.png" width="650" height="400" > </br> </br> </br> <hr>
  
 ### :four: Step 4: Generalize the pattern. </br>
-#### Write down the formula. The final result is: sum(n) = sum(n-1) + n
+### Write down the formula. The final result is: sum(n) = sum(n-1) + n
 
  <img src="p1generalize.png" width="750" height="300" > </br> </br> </br> <hr>
 
